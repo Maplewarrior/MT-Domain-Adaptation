@@ -12,3 +12,5 @@
 ##### 49.16 BLEU score on TED2020 development set (in-domain).
 ##### 44.16 BLEU score on out-of-domain data.
 ##### 48.80 BLEU score on TED2020 test set.
+
+All the above-listed results outperformed the baseline opus model.
